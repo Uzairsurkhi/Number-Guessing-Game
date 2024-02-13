@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 # df = pd.read_csv('./csv_files/username.csv')
-df = pd.read_csv('./GuessingGame/username.csv')
+df = pd.read_csv('C:/Users/Usurk/PycharmProjects/Number-Guessing-Game/GuessingGame/username.csv')
 print(df.to_string())
 
 fig = plt.figure()
